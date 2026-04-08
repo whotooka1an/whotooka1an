@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hey
 
+I'm Arshad, a software engineering student based in India.
+
+My interests revolve around website and game development.
+
+My tech stack is vanilla, react.js, typescript, next.js, supabase, c, c++, c# 
+
+If my portfolio aligns with your interests, feel free to reach out!
+
+My hobbies are creating and designing motion graphics using blender and after effects.
 <!--
 **whotooka1an/whotooka1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
