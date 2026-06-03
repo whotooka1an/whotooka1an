@@ -4,7 +4,7 @@ I'm Arshad, a software engineering student based in India.
 
 My interests revolve around website and game development.
 
-My tech stack is vanilla, react.js, typescript, next.js, supabase, c, c++, c# 
+My tech stack is vanilla, react.js, rust, typescript, next.js, supabase, c, c++, c# 
 
 I specialise in developing interactive games using unreal engine and unity
 
